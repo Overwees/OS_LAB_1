@@ -1,4 +1,4 @@
-# OS_LAB_1
+# OS_LAB_1_CREATING_PROCESS
 
 ## Задача
 
